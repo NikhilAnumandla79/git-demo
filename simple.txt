@@ -1,3 +1,5 @@
 This is the simple text file that i created to learn git hub.
 
 This is the Fourth commit.
+
+This is the text added to check reset and restore
