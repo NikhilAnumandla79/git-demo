@@ -1,3 +1,5 @@
 This is the simple text file that i created to learn git hub.
 
 This is second update
+
+This is to check commit with -am tags in git.--third commit
